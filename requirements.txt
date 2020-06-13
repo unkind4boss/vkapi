@@ -1,4 +1,4 @@
 psycopg2-binary==2.7.5
 vk-api==10.1
-requests==2.18.4
+requests==2.20.0
 raven>=3
